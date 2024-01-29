@@ -62,7 +62,8 @@ function gradeQuiz(candidateAnswers) {
   }
 
   return grade;
-}
+} 
+
 
 function runProgram() {
   askForName();
